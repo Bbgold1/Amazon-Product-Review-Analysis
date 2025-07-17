@@ -46,7 +46,7 @@ An Excel dashboard is included with:
 
  Files:
 - `Amazon_Product_Review_Analysis_Report.docx` (Full report)
-- `Emynex Project 1.xlsx` (Raw data + Pivot tables + Dashboard)
+- `amazon_product_review_analysis_project1.xlsx` (Raw data + Pivot tables + Dashboard)
 
 ---
 
